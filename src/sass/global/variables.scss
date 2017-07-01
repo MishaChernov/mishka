@@ -1,0 +1,33 @@
+            /*font-family*/
+$primary-font-family: "Open Sans", "Arial", sans-serif;
+
+            /*font-size*/
+$mobile-primary-size-text: 15px;
+$tablet-primary-size-text: 17px;
+$desktop-primary-size-text: 17px;
+
+$mobile-primary-size-title: 27px;
+$tablet-primary-size-title: 43px;
+$desktop-primary-size-title: 53px;
+
+            /*line-height*/
+$mobile-primary-line-height-text: 30px;
+$tablet-primary-line-height-text: 30px;
+$desktop-primary-line-height-text: 30px;
+
+$mobile-primary-line-height-title: 30px;
+$tablet-primary-line-height-title: 50px;
+$desktop-primary-line-height-title: 57px;
+
+            /*color*/
+$primary-font-color: #444444;
+$secondary-font-color: #000000;
+
+            /*bg-color*/
+$primary-bg-color: #ffffff;
+$secondary-bg-color: #f1f1f1;
+
+            /*device width*/
+$width-mobile-device: 320px;
+$width-tablet-device: 768px;
+$width-desktop-device: 1440px;
